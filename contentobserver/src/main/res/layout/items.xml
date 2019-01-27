@@ -1,0 +1,12 @@
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/title"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textSize="@dimen/text_size"
+    android:layout_marginStart="@dimen/list_margin_start"
+    android:layout_marginBottom="@dimen/list_margin_start_id"
+    android:paddingStart="@dimen/list_margin_start_id"
+    android:paddingEnd="@dimen/list_margin_start_id"
+    android:background="@drawable/border"
+    android:textColor="@color/colorGreen" />

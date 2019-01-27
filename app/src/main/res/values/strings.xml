@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Notebook</string>
+    <string name="main_activity">Заметки</string>
+    <string name="create_activity">Создание заметки</string>
+    <string name="edit_activity">Редактирование заметки</string>
+    <string name="settings_activity">Настройки</string>
+    <string name="label">Название заметки:</string>
+    <string name="title">Введите название</string>
+    <string name="label_text">Текст заметки:</string>
+    <string name="text_note">Введите текст заметки</string>
+    <string name="message">Введите данные!</string>
+    <string name="title_list"><u>Мои заметки</u></string>
+    <string name="text_size"><u>Размер текста заметки</u></string>
+    <string name="text_color"><u>Цвет текста заметки</u></string>
+</resources>

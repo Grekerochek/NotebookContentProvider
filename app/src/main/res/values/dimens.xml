@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_margin_bottom">25dp</dimen>
+    <dimen name="list_margin_start">25dp</dimen>
+    <dimen name="list_margin_start_title">10dp</dimen>
+    <dimen name="list_margin_start_id">10dp</dimen>
+    <dimen name="text_size">25sp</dimen>
+    <dimen name="title_text_size">40sp</dimen>
+</resources>
